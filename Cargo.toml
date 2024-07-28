@@ -7,4 +7,3 @@ readme = "README.md" # путь к файлу README.md
 repository = "https://github.com/Neisvestny/bank_project" # URL на GitHub проект
 
 [dependencies]
-colored = "2.1.0"
